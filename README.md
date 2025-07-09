@@ -11,35 +11,35 @@ Over the past five years, there has been a noticeable increase in the failure ra
    - **Insight**: This visualization provides a clear picture of the overall performance trend, highlighting the number of students who successfully met the cut-off marks versus those who did not.
    - **Visualization**: A bar chart with two bars (one for pass and one for fail) illustrating the overall pass and fail counts.
   
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/1d80faca-1e61-4cc2-be68-046f36934ddb" />
+      <img width="398" alt="image" src="https://github.com/user-attachments/assets/1d80faca-1e61-4cc2-be68-046f36934ddb" />
 
 2. **Distribution of JAMB Scores**:
    - **Histogram**: Showing the frequency of scores in different ranges.
    - **Insight**: The majority of students score between 150 and 250, with a notable peak around 200.
    - **Visualization**: A bar chart displaying the frequency of scores in different ranges, highlighting the concentration of scores around the 200 mark.
 
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/6baa3440-1fe5-49c6-b096-05b83816b781" />
+      <img width="532" alt="image" src="https://github.com/user-attachments/assets/6baa3440-1fe5-49c6-b096-05b83816b781" />
 
 3. **Pass Rate by Gender**:
    - **Bar Chart**: Comparing the pass rates of male and female students.
    - **Insight**: Female students show a slightly higher pass rate compared to male students.
    - **Visualization**: A bar chart with two bars (one for male and one for female) illustrating the pass rates, showing a small but noticeable difference.
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/9236c114-0852-46ec-b9e6-4bd23cb85652" />
+      <img width="350" alt="image" src="https://github.com/user-attachments/assets/9236c114-0852-46ec-b9e6-4bd23cb85652" />
 
 4. **Yearly Pass Rate Trends**:
    - **Line Graph**: Tracking the pass rate over the years from 2020 to 2025.
    - **Insight**: The trend shows a gradual improvement, indicating that recent cohorts are performing better.
    - **Visualization**: A line graph with years on the x-axis and pass rates on the y-axis, showing an upward trend.
 
-<img width="448" alt="image" src="https://github.com/user-attachments/assets/a91c19a0-611f-499a-b323-a9078fdbce06" />
+     <img width="448" alt="image" src="https://github.com/user-attachments/assets/a91c19a0-611f-499a-b323-a9078fdbce06" />
 
 5. **Study Hours and Performance**:
    - **Scatter Plot**: Showing the relationship between study hours and JAMB scores.
    - **Insight**: There is a positive correlation, suggesting that more study hours generally lead to higher scores.
    - **Visualization**: A scatter plot with study hours on the x-axis and JAMB scores on the y-axis, showing a positive trend.
 
-<img width="444" alt="image" src="https://github.com/user-attachments/assets/3b0dd930-5731-47a2-84bb-198d39f04295" />
+     <img width="444" alt="image" src="https://github.com/user-attachments/assets/3b0dd930-5731-47a2-84bb-198d39f04295" />
 
 ### Conclusion
 
