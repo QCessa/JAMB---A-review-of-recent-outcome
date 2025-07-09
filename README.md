@@ -25,7 +25,7 @@ Over the past five years, there has been a noticeable increase in the failure ra
    - **Insight**: Female students show a slightly higher pass rate compared to male students.
    - **Visualization**: A bar chart with two bars (one for male and one for female) illustrating the pass rates, showing a small but noticeable difference.
 
-      <img width="350" alt="image" src="https://github.com/user-attachments/assets/9236c114-0852-46ec-b9e6-4bd23cb85652" />
+      <img width="423" alt="image" src="https://github.com/user-attachments/assets/707f39c1-d061-4d90-99c2-c112b8fc4db5" />
 
 4. **Yearly Pass Rate Trends**:
    - **Line Graph**: Tracking the pass rate over the years from 2020 to 2025.
